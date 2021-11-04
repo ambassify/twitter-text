@@ -1,8 +1,18 @@
-[![npm](https://img.shields.io/npm/v/twitter-text.svg)](https://www.npmjs.com/package/twitter-text)
+[![npm](https://img.shields.io/npm/v/@ambassify/twitter-text.svg)](https://www.npmjs.com/package/@ambassify/twitter-text)
 
-## twitter-text-js
+# @ambassify/twitter-text-js
 
 A JavaScript utility that provides text processing routines for Tweets.  This library conforms to a common test suite shared by many other implementations, particularly twitter-text.gem (Ruby).  The library provides autolinking and extraction for URLs, usernames, lists, and hashtags.
+
+## Ambassify fork
+
+This fork of the original twitter-text library includes:
+
+- ...
+
+It's available on NPM as `npm install @ambassify/twitter-text`
+
+# Orginal README
 
 ## NPM Users
 
