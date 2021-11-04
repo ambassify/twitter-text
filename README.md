@@ -1,4 +1,8 @@
-# twitter-text
+# @ambassify/twitter-text
+
+This is Ambassify's fork of the twitter-text library. Only the npm package is published at this time. Check its README to see which adjustments we made.
+
+## Original README
 
 This repository is a collection of libraries and conformance tests to standardize parsing of Tweet text. It synchronizes development, testing, creating issues, and pull requests for twitter-text's implementations and specification. These libraries are responsible for determining the quantity of characters in a Tweet and identifying and linking any URL, @username, #hashtag, or $cashtag.
 
@@ -12,7 +16,7 @@ See implementations and conformance in this repository below:
 
 ## Other language implementations
 
-The following implementations exist in other programming languages, but are not supported by or used by Twitter. 
+The following implementations exist in other programming languages, but are not supported by or used by Twitter.
 We'd like to thank the authors for building and maintaining these alternatives.
 
 * [Swift](https://swiftpack.co/package/nysander/twitter-text)
