@@ -8,7 +8,7 @@ A JavaScript utility that provides text processing routines for Tweets.  This li
 
 This fork of the original twitter-text library includes:
 
-- ...
+- [Updated core-js and polyfill strategy](https://github.com/twitter/twitter-text/pull/363)
 
 It's available on NPM as `npm install @ambassify/twitter-text`
 
