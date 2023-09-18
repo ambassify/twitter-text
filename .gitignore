@@ -1,8 +1,4 @@
-# IntelliJ files
-js/.idea
-rb/.idea
-java/.idea
-/.idea
-twitter-text.iml
 .DS_Store
-*.sw?
+node_modules/
+dist/
+package-lock.json
